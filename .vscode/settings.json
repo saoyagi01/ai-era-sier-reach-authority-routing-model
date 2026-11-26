@@ -1,0 +1,8 @@
+{
+  "markdown-pdf-plus.pageSize": "a4",
+  "markdown-pdf-plus.marginTop": "20mm",
+  "markdown-pdf-plus.marginBottom": "20mm",
+  "markdown-pdf-plus.marginLeft": "20mm",
+  "markdown-pdf-plus.marginRight": "20mm",
+  "markdown-pdf-plus.CSSPath": "paper.css"
+}
