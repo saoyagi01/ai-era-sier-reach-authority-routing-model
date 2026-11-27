@@ -14,10 +14,10 @@
 ## 文書情報
 
 - 文書種別：Conceptual Paper / Preprint
-- 現在版：Version 1.7（理論境界・反実仮想明確化版）
+- 現在版：Version 1.8（診断構造・測定独立性強化版）
 - 著者：Satoshi Aoyagi
 - ライセンス：Creative Commons Attribution 4.0 International
-- Zenodo DOI：https://doi.org/10.5281/zenodo.24539887
+- Zenodo DOI（all versions）：https://doi.org/10.5281/zenodo.24539886
 
 本リポジトリ内の最新原稿は未査読のプレプリントです。査読評価やAIによるレビューは、外部機関による正式な採択を意味しません。
 
@@ -63,6 +63,7 @@ Markdownを正本として扱います。原稿を更新した後は、PDFが必
 - Version 1.5.1：公開前校正とメタデータ整合
 - Version 1.6：実証上のコーディング規則と本番変更の連続適用例を追加
 - Version 1.7：四変数の反実仮想、M類型の階層、P2の下位経路別予測を明確化
+- Version 1.8：CHの予測差、階層的診断、評価者独立性、M3境界、P1/P2識別を強化
 
 ## ライセンス
 
