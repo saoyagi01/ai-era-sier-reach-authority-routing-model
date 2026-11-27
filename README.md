@@ -14,7 +14,7 @@
 ## 文書情報
 
 - 文書種別：Conceptual Paper / Preprint
-- 現在版：Version 1.13（査読コメント反映改稿案）
+- 現在版：Version 1.13.1（査読コメント反映改稿案）
 - 著者：Satoshi Aoyagi
 - ライセンス：Creative Commons Attribution 4.0 International
 - Zenodo DOI（all versions）：https://doi.org/10.5281/zenodo.24539886
@@ -69,7 +69,8 @@ Markdownを正本として扱います。原稿を更新した後は、PDFが必
 - Version 1.11：診断優先確定、P1/P4識別、RV機能コード、再帰注記を明確化
 - Version 1.12：組版・公開情報表示を校正
 - Version 1.12.1：「採択後」を削除し、未投稿・未査読の実態へメタデータを訂正
-- Version 1.13：CHの基礎／実現層、CHとRの因果境界、協働主体構成、Sの感度分析、R必要性の根拠区分を反映
+- Version 1.13：CHとRの境界案、協働主体構成、Sの感度分析、R必要性の根拠区分を反映
+- Version 1.13.1：CHの正式定義をA・R以前の動員可能能力へ確定、M1・M3・M4の境界、競合モデル、P1・P2の識別を強化
 
 ## ライセンス
 

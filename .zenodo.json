@@ -8,7 +8,7 @@
       "name": "Aoyagi, Satoshi"
     }
   ],
-  "version": "1.13",
+  "version": "1.13.1",
   "language": "jpn",
   "keywords": [
     "人工知能",
@@ -20,5 +20,5 @@
   ],
   "license": "CC-BY-4.0",
   "access_right": "open",
-  "notes": "Conceptual Paper / Preprint. Version 1.13. Not submitted to or accepted by any journal or conference; not peer reviewed. Major revision draft based on initial peer-review comments, clarifying CH's construct independence, CH-R boundaries, collaborative configurations, M classification hierarchy, and measurement sensitivity."
+  "notes": "Conceptual Paper / Preprint. Version 1.13.1. Not submitted to or accepted by any journal or conference; not peer reviewed. Major revision draft reflecting peer-review comments, with CH fixed as mobilization capability before A and R, and revised M1/M3/M4, P1/P2, and competitive-model boundaries."
 }
