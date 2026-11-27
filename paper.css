@@ -30,6 +30,11 @@ h2 {
   page-break-after: avoid;
 }
 
+h2:last-of-type {
+  break-before: page;
+  page-break-before: always;
+}
+
 h3 {
   font-size: 12.5pt;
   color: #194f7a;
