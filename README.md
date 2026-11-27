@@ -14,7 +14,7 @@
 ## 文書情報
 
 - 文書種別：Conceptual Paper / Preprint
-- 現在版：Version 1.9（診断規則・実務図校正版）
+- 現在版：Version 1.10（理論中核焦点化版）
 - 著者：Satoshi Aoyagi
 - ライセンス：Creative Commons Attribution 4.0 International
 - Zenodo DOI（all versions）：https://doi.org/10.5281/zenodo.24539886
@@ -65,6 +65,7 @@ Markdownを正本として扱います。原稿を更新した後は、PDFが必
 - Version 1.7：四変数の反実仮想、M類型の階層、P2の下位経路別予測を明確化
 - Version 1.8：CHの予測差、階層的診断、評価者独立性、M3境界、P1/P2識別を強化
 - Version 1.9：M3/M4優先規則、CHコーディング、RV residual限界、意思決定図完成例を校正
+- Version 1.10：A・Rの二つの反実仮想とMの介入差を中心に論旨を圧縮
 
 ## ライセンス
 
