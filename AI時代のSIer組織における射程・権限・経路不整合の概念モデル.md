@@ -3,10 +3,10 @@
 - **English title:** A Conceptual Model of Reach-Authority-Routing Misalignment in SIer Organizations in the AI Era
 - **Author:** Satoshi Aoyagi
 - **Document type:** Conceptual Paper / Preprint
-- **Version:** 1.12（採択後編集校正版）
+- **Version:** 1.12.1（公開準備校正版）
 - **DOI（all versions）:** 10.5281/zenodo.24539886
 
-本稿は未査読の概念論文である。内容は今後の研究、読者からのフィードバック、および査読過程に応じて改訂される可能性がある。
+本稿は、学術誌・会議等へ未提出かつ未査読の概念論文である。内容は今後の研究、読者からのフィードバックおよび将来の査読過程に応じて改訂される可能性がある。
 
 ### 要旨
 
@@ -718,8 +718,8 @@ Wiedemann, A., Wiesche, M., Gewald, H., & Krcmar, H. (2023). Integrating develop
 
 - **タイトル：** AI時代のSIer組織における射程・権限・経路不整合の概念モデル
 - **文書種別：** Conceptual Paper / Preprint
-- **公開版：** Version 1.12（採択後編集校正版）
-- **査読状態：** 未査読
+- **公開版：** Version 1.12.1（公開準備校正版）
+- **投稿・査読状態：** 未投稿・未査読
 - **公開先：** Zenodo
 - **DOI（all versions）：** https://doi.org/10.5281/zenodo.24539886
 - **ライセンス：** Creative Commons Attribution 4.0 International
