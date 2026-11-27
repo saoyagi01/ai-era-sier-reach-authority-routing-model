@@ -30,6 +30,7 @@
 | `AI時代のSIer組織における射程・権限・経路不整合の概念モデル_図1.png` | 中核モデルを示す図1 |
 | `paper.css` | PDF出力用スタイル |
 | `.vscode/settings.json` | Markdown PDF出力設定 |
+| `.zenodo.json` | GitHub ReleaseからZenodoへ取り込む公開メタデータ |
 
 Markdownを正本として扱います。原稿を更新した後は、PDFが必要な場合にMarkdownから再生成してください。
 

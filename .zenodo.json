@@ -1,0 +1,24 @@
+{
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "title": "AI時代のSIer組織における射程・権限・経路不整合の概念モデル",
+  "description": "AIによって主体が特定の意思決定について実際に動員できる作用範囲が変化する状況を、保有有効射程CH、要求射程CR、制度的意思決定権A、経路Rの配置問題として分析する概念論文。四変数から射程不整合Mを構造条件として診断し、M1からM4の介入候補と反証可能な研究命題を提示する。",
+  "creators": [
+    {
+      "name": "Aoyagi, Satoshi"
+    }
+  ],
+  "version": "1.6",
+  "language": "jpn",
+  "keywords": [
+    "人工知能",
+    "SIer",
+    "組織設計",
+    "意思決定権",
+    "調整",
+    "概念モデル"
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "notes": "Conceptual Paper / Preprint. Version 1.6. This record is a Zenodo/GitHub integration archive."
+}
